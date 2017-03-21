@@ -18,8 +18,8 @@ a 和 b 分别表示从红色到绿色的范围和从黄色到蓝色的范围,�
 
 ## 效果展示
 - 输入图像 src.jpg  
-![src](src.jpg)
+![src](pic/src.jpg)
 - 输入图像 tar.jpg  
-![tar](tar.jpg)
+![tar](pic/tar.jpg)
 - 输出图像 out.jpg  
-![out](out.jpg)
+![out](pic/out.jpg)
