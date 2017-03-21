@@ -19,7 +19,7 @@ a 和 b 分别表示从红色到绿色的范围和从黄色到蓝色的范围,�
 ## 效果展示
 - 输入图像 src.jpg  
 ![src](src.jpg)
-- 输入图像 tar.jpg
+- 输入图像 tar.jpg  
 ![tar](tar.jpg)
-- 输出图像 out.jpg
+- 输出图像 out.jpg  
 ![out](out.jpg)
